@@ -17,6 +17,14 @@
                 "string"
             ],
             "default": null
-        }
+        },
+      {
+        "name": "lastName",
+        "type": [
+          "null",
+          "string"
+        ],
+        "default": null
+      }
     ]
 }
