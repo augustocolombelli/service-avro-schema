@@ -4,8 +4,8 @@
     "type": "record",
     "fields" : [
 		{
-		    "name": "id",
-		    "type": ["int"]
+		    "name": "uuid",
+		    "type": ["string"]
 		},
 		{
 		    "name": "name",
